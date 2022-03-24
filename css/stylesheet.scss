@@ -1,0 +1,30 @@
+body{
+    margin: none;
+    padding: none;
+    
+}
+
+.navbar{
+    background-color: rgb(44, 44, 44);
+    
+}
+
+.carousel-item{
+    img{
+        object-fit: cover;
+        height: 60vh;
+
+    }
+}
+
+.website-container{
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(53, 53, 53);
+
+    .website-content{
+        width: 60vw;
+        height: auto;
+    }
+}
